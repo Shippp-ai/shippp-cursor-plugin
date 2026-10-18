@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "shippp": {
+      "url": "https://app.shippp.ai/api/mcp/mcp"
+    }
+  }
+}

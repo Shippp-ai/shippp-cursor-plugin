@@ -1,0 +1,12 @@
+{
+  "name": "shippp",
+  "description": "A connected canvas for the builders of the next era.",
+  "version": "0.4.0",
+  "homepage": "https://docs.shippp.ai",
+  "repository": "https://github.com/Shippp-ai/shippp-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["design", "design-system", "design-tokens", "components", "mcp", "shippp"],
+  "author": { "name": "Shippp", "email": "hello@shippp.ai" },
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
